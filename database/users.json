@@ -1,15 +1,5 @@
 [
   {
-    "id": "user_1779794960473",
-    "name": "Mouali Amine",
-    "email": "mouali@gmail.com",
-    "password": "-6wl0sc",
-    "role": "user",
-    "banned": false,
-    "createdAt": "2026-05-26T11:29:20.474Z",
-    "lastLogin": "2026-05-26T11:47:22.744Z"
-  },
-  {
     "id": "user_1779806430082",
     "name": "ez",
     "email": "ze@gmail.com",
