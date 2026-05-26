@@ -1,6 +1,37 @@
 [
-  { "id": "sneakers",    "name": "Sneakers",      "emoji": "👟", "description": "Nike, Saucony et plus" },
-  { "id": "shorts",      "name": "Shorts Nike",   "emoji": "🩳", "description": "Training & lifestyle" },
-  { "id": "streetwear",  "name": "Streetwear",    "emoji": "🧥", "description": "Urban & hype" },
-  { "id": "accessories", "name": "Accessoires",   "emoji": "🧢", "description": "Caps, chaussettes..." }
+  {
+    "id": "tshirts",
+    "name": "T-shirts",
+    "description": "T-shirts et hauts lifestyle"
+  },
+  {
+    "id": "short_sets",
+    "name": "Ensembles Short",
+    "description": "Ensembles été et sport"
+  },
+  {
+    "id": "caps",
+    "name": "Casquettes",
+    "description": "Casquettes et accessoires streetwear"
+  },
+  {
+    "id": "shoes",
+    "name": "Chaussures",
+    "description": "Sneakers et chaussures lifestyle"
+  },
+  {
+    "id": "running",
+    "name": "Running",
+    "description": "Chaussures et vêtements running"
+  },
+  {
+    "id": "sunglasses",
+    "name": "Lunettes de soleil",
+    "description": "Styles modernes et sport"
+  },
+  {
+    "id": "sandals",
+    "name": "Sandales",
+    "description": "Sandales confort et été"
+  }
 ]
