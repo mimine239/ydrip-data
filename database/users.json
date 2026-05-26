@@ -18,5 +18,15 @@
     "banned": false,
     "createdAt": "2026-05-26T14:40:30.082Z",
     "lastLogin": "2026-05-26T16:04:27.218Z"
+  },
+  {
+    "id": "user_1779829089600",
+    "name": "Milo",
+    "email": "mouzli@gmail.com",
+    "password": "cts5cx",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-05-26T20:58:09.600Z",
+    "lastLogin": null
   }
 ]
