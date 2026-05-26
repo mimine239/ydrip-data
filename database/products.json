@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "name": "Ensemble Nike OS",
+    "brand": "Nike",
+    "price": 60,
+    "stock": 1000,
+    "description": "",
+    "category": "sneakers",
+    "condition": "Neuf avec boîte",
+    "images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmiR6ApetyV_S8PhfgyUzVHI44xj7vaUw2QptdIMMjUwLX_xf7tQy5lX2RTSdkonka_0LvJ8A"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "tags": [
+      "nike",
+      "short tee shirt"
+    ],
+    "isNew": false,
+    "isHot": false,
+    "id": "prod_1779806329448",
+    "createdAt": "2026-05-26T14:38:49.448Z"
+  }
+]
