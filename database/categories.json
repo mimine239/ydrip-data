@@ -2,43 +2,43 @@
   {
     "id": "tshirts",
     "name": "T-shirts",
-    "emoji": "👕",
+    "emoji": "\uD83D\uDC55",
     "description": "T-shirts et hauts lifestyle"
   },
   {
     "id": "short_sets",
     "name": "Ensembles Short",
-    "emoji": "🩳",
+    "emoji": "\uD83E\uDEB3",
     "description": "Ensembles été et sport"
   },
   {
     "id": "caps",
     "name": "Casquettes",
-    "emoji": "🧢",
+    "emoji": "\uD83E\uDDE2",
     "description": "Casquettes et accessoires streetwear"
   },
   {
     "id": "shoes",
     "name": "Chaussures",
-    "emoji": "👟",
+    "emoji": "\uD83D\uDC5F",
     "description": "Sneakers et chaussures lifestyle"
   },
   {
     "id": "running",
     "name": "Running",
-    "emoji": "🏃",
+    "emoji": "\uD83C\uDFC3",
     "description": "Chaussures et vêtements running"
   },
   {
     "id": "sunglasses",
     "name": "Lunettes de soleil",
-    "emoji": "🕶️",
+    "emoji": "\uD83D\uDD76\uFE0F",
     "description": "Styles modernes et sport"
   },
   {
     "id": "sandals",
     "name": "Sandales",
-    "emoji": "🩴",
+    "emoji": "\uD83E\uDEB4",
     "description": "Sandales confort et été"
   }
 ]
