@@ -8,5 +8,15 @@
     "banned": false,
     "createdAt": "2026-05-26T11:29:20.474Z",
     "lastLogin": "2026-05-26T11:47:22.744Z"
+  },
+  {
+    "id": "user_1779806430082",
+    "name": "ez",
+    "email": "ze@gmail.com",
+    "password": "om1kiq",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-05-26T14:40:30.082Z",
+    "lastLogin": null
   }
 ]
