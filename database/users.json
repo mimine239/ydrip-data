@@ -28,5 +28,15 @@
     "banned": false,
     "createdAt": "2026-05-26T20:58:09.600Z",
     "lastLogin": null
+  },
+  {
+    "id": "user_1779829211099",
+    "name": "sq",
+    "email": "qs@gmail.com",
+    "password": "-oqgogf",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-05-26T21:00:11.099Z",
+    "lastLogin": null
   }
 ]
