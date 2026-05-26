@@ -44,7 +44,7 @@
     "convId": "conv_1779797742587",
     "senderId": "user_1779794960473",
     "senderName": "Vous",
-    "content": "Bonjour Amine ! Je suis intÃÂÃÂÃÂÃÂ©ressÃÂÃÂÃÂÃÂ©(e) par : Chaussette (12ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¬). Pouvez-vous me donner plus d'informations ?",
+    "content": "Bonjour Amine ! Je suis intÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©ressÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©(e) par : Chaussette (12ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¬). Pouvez-vous me donner plus d'informations ?",
     "isAdmin": false,
     "timestamp": "2026-05-26T12:15:43.874Z",
     "read": false
@@ -64,7 +64,7 @@
     "convId": "conv_1779806436150",
     "senderId": "user_1779806430082",
     "senderName": "Vous",
-    "content": "Bonjour Amine ! Je suis intÃÂ©ressÃÂ©(e) par : Ensemble Nike OS (60Ã¢ÂÂ¬). Pouvez-vous me donner plus d'informations ?",
+    "content": "Bonjour Amine ! Je suis intÃÂÃÂ©ressÃÂÃÂ©(e) par : Ensemble Nike OS (60ÃÂ¢ÃÂÃÂ¬). Pouvez-vous me donner plus d'informations ?",
     "isAdmin": false,
     "timestamp": "2026-05-26T14:40:37.323Z",
     "read": false
@@ -84,9 +84,19 @@
     "convId": "conv_1779829092648",
     "senderId": "user_1779829089600",
     "senderName": "Vous",
-    "content": "Bonjour Amine ! Je suis intéressé(e) par : Ensemble Nike OS (60€). Pouvez-vous me donner plus d'informations ?",
+    "content": "Bonjour Amine ! Je suis intÃ©ressÃ©(e) par : Ensemble Nike OS (60â¬). Pouvez-vous me donner plus d'informations ?",
     "isAdmin": false,
     "timestamp": "2026-05-26T20:58:13.711Z",
+    "read": false
+  },
+  {
+    "id": "msg_1779829109601",
+    "convId": "conv_1779829092648",
+    "senderId": "user_1779829089600",
+    "senderName": "Milo",
+    "content": "s",
+    "isAdmin": false,
+    "timestamp": "2026-05-26T20:58:29.601Z",
     "read": false
   }
 ]
