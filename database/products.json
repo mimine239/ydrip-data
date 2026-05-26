@@ -1,32 +1,28 @@
 [
   {
-    "id": "prod_001",
-    "name": "Nike Air Max 270",
-    "brand": "Nike",
-    "category": "sneakers",
-    "price": 89,
-    "description": "La Nike Air Max 270 offre un confort inégalé grâce à son coussin Air max. Design futuriste, semelle volumineuse et tige en mesh respirant.",
-    "sizes": ["40","41","42","43","44","45"],
-    "stock": 5,
-    "condition": "Neuf avec boîte",
-    "images": ["https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80"],
-    "tags": ["nike","air max","running","streetwear"],
-    "isNew": true,
-    "isHot": false,
-    "createdAt": "2025-01-15T10:00:00.000Z"
-  },
-  {
     "id": "prod_002",
     "name": "Saucony Kinvara 14",
     "brand": "Saucony",
     "category": "sneakers",
     "price": 75,
-    "description": "La Saucony Kinvara 14 est une sneaker running légère et réactive. Parfaite pour les longues distances.",
-    "sizes": ["39","40","41","42","43"],
+    "description": "La Saucony Kinvara 14 est une sneaker running lÃ©gÃ¨re et rÃ©active. Parfaite pour les longues distances.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
     "stock": 3,
-    "condition": "Très bon état",
-    "images": ["https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&q=80"],
-    "tags": ["saucony","running","minimaliste"],
+    "condition": "TrÃ¨s bon Ã©tat",
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&q=80"
+    ],
+    "tags": [
+      "saucony",
+      "running",
+      "minimaliste"
+    ],
     "isNew": false,
     "isHot": true,
     "createdAt": "2025-01-14T10:00:00.000Z"
