@@ -35,7 +35,7 @@
     "email": "qs@gmail.com",
     "password": "-oqgogf",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "createdAt": "2026-05-26T21:00:11.099Z",
     "lastLogin": null
   }
