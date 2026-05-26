@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "msg_1779795002165",
+    "convId": "conv_1779794968474",
+    "senderId": "user_1779794960473",
+    "senderName": "Mouali Amine",
+    "content": "salut",
+    "isAdmin": false,
+    "timestamp": "2026-05-26T11:30:02.165Z",
+    "read": false
+  }
+]
