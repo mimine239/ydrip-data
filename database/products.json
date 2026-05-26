@@ -5,8 +5,8 @@
     "price": 60,
     "stock": 1000,
     "description": "",
-    "category": "sneakers",
-    "condition": "Très bon état",
+    "category": "tshirts",
+    "condition": "Neuf avec étiquette",
     "images": [
       "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmiR6ApetyV_S8PhfgyUzVHI44xj7vaUw2QptdIMMjUwLX_xf7tQy5lX2RTSdkonka_0LvJ8A"
     ],
@@ -20,10 +20,10 @@
       "nike",
       "short tee shirt"
     ],
-    "isNew": false,
+    "isNew": true,
     "isHot": false,
     "id": "prod_1779806329448",
     "createdAt": "2026-05-26T14:38:49.448Z",
-    "updatedAt": "2026-05-26T14:39:00.593Z"
+    "updatedAt": "2026-05-26T16:03:32.175Z"
   }
 ]
