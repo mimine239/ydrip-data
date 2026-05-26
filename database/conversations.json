@@ -37,5 +37,18 @@
     "lastMessage": "salut",
     "unreadByAdmin": 0,
     "unreadByUser": 0
+  },
+  {
+    "id": "conv_1779829247345",
+    "userId": "user_1779829211099",
+    "productId": "prod_1779806329448",
+    "productName": "Ensemble Nike OS",
+    "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmiR6ApetyV_S8PhfgyUzVHI44xj7vaUw2QptdIMMjUwLX_xf7tQy5lX2RTSdkonka_0LvJ8A",
+    "productPrice": 60,
+    "createdAt": "2026-05-26T21:00:47.345Z",
+    "lastMessageAt": "2026-05-26T21:00:47.345Z",
+    "lastMessage": "Bonjour, je suis intéressé(e) par Ensemble Nike OS",
+    "unreadByAdmin": 1,
+    "unreadByUser": 0
   }
 ]
