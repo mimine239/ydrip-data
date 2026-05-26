@@ -8,5 +8,15 @@
     "isAdmin": false,
     "timestamp": "2026-05-26T11:30:02.165Z",
     "read": false
+  },
+  {
+    "id": "msg_1779795077127",
+    "convId": "conv_1779794968474",
+    "senderId": "admin",
+    "senderName": "Amine Mouali",
+    "content": "bonjour",
+    "isAdmin": true,
+    "timestamp": "2026-05-26T11:31:17.127Z",
+    "read": false
   }
 ]
