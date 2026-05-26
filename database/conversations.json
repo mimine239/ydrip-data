@@ -11,5 +11,18 @@
     "lastMessage": "bonjour c est pour commande cette paire de chaussure",
     "unreadByAdmin": 0,
     "unreadByUser": 0
+  },
+  {
+    "id": "conv_1779797742587",
+    "userId": "user_1779794960473",
+    "productId": "prod_1779796399676",
+    "productName": "Chaussette",
+    "productImage": "https://img-1.kwcdn.com/product/fancy/5959825b-3dcd-4590-8e68-b106fa0c99df.jpg?imageView2/2/w/264/q/70/format/webp",
+    "productPrice": 12,
+    "createdAt": "2026-05-26T12:15:42.587Z",
+    "lastMessageAt": "2026-05-26T12:15:42.587Z",
+    "lastMessage": "Bonjour, je suis intéressé(e) par Chaussette",
+    "unreadByAdmin": 1,
+    "unreadByUser": 0
   }
 ]
