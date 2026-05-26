@@ -5,7 +5,7 @@
     "brand": "Saucony",
     "category": "sneakers",
     "price": 75,
-    "description": "La Saucony Kinvara 14 est une sneaker running lÃ©gÃ¨re et rÃ©active. Parfaite pour les longues distances.",
+    "description": "La Saucony Kinvara 14 est une sneaker running lÃÂ©gÃÂ¨re et rÃÂ©active. Parfaite pour les longues distances.",
     "sizes": [
       "39",
       "40",
@@ -14,7 +14,7 @@
       "43"
     ],
     "stock": 3,
-    "condition": "TrÃ¨s bon Ã©tat",
+    "condition": "TrÃÂ¨s bon ÃÂ©tat",
     "images": [
       "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&q=80"
     ],
@@ -26,5 +26,25 @@
     "isNew": false,
     "isHot": true,
     "createdAt": "2025-01-14T10:00:00.000Z"
+  },
+  {
+    "name": "Chaussette",
+    "brand": "nike",
+    "price": 12,
+    "stock": 24,
+    "description": "",
+    "category": "sneakers",
+    "condition": "Neuf avec boîte",
+    "images": [
+      "https://img-1.kwcdn.com/product/fancy/5959825b-3dcd-4590-8e68-b106fa0c99df.jpg?imageView2/2/w/264/q/70/format/webp"
+    ],
+    "sizes": [
+      "S M L"
+    ],
+    "tags": [],
+    "isNew": true,
+    "isHot": true,
+    "id": "prod_1779796399676",
+    "createdAt": "2026-05-26T11:53:19.676Z"
   }
 ]
