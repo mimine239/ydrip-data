@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "conv_1779794968474",
+    "userId": "user_1779794960473",
+    "productId": "prod_002",
+    "productName": "Saucony Kinvara 14",
+    "productImage": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&q=80",
+    "productPrice": 75,
+    "createdAt": "2026-05-26T11:29:28.474Z",
+    "lastMessageAt": "2026-05-26T11:29:28.474Z",
+    "lastMessage": "Bonjour, je suis intéressé(e) par Saucony Kinvara 14",
+    "unreadByAdmin": 1,
+    "unreadByUser": 0
+  }
+]
