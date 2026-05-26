@@ -7,7 +7,7 @@
   },
   {
     "id": "short_sets",
-    "name": "Ensembles Short",
+    "name": "Ensembles Short Tee Shirt",
     "emoji": "\uD83E\uDE73",
     "description": "Ensembles été et sport"
   },
@@ -25,7 +25,7 @@
   },
   {
     "id": "running",
-    "name": "Running",
+    "name": "Ensemble Running",
     "emoji": "\uD83C\uDFC3",
     "description": "Chaussures et vêtements running"
   },
@@ -38,7 +38,7 @@
   {
     "id": "sandals",
     "name": "Sandales",
-    "emoji": "\uD83E\uDEB4",
+    "emoji": "\uD83E\uDE74",
     "description": "Sandales confort et été"
   }
 ]
