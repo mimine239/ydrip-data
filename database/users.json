@@ -5,7 +5,7 @@
     "email": "mouali@gmail.com",
     "password": "-6wl0sc",
     "role": "user",
-    "banned": false,
+    "banned": true,
     "createdAt": "2026-05-26T11:29:20.474Z",
     "lastLogin": "2026-05-26T11:47:22.744Z"
   },
