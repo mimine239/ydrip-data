@@ -38,5 +38,15 @@
     "isAdmin": false,
     "timestamp": "2026-05-26T11:47:33.456Z",
     "read": false
+  },
+  {
+    "id": "msg_1779797743874",
+    "convId": "conv_1779797742587",
+    "senderId": "user_1779794960473",
+    "senderName": "Vous",
+    "content": "Bonjour Amine ! Je suis intéressé(e) par : Chaussette (12€). Pouvez-vous me donner plus d'informations ?",
+    "isAdmin": false,
+    "timestamp": "2026-05-26T12:15:43.874Z",
+    "read": false
   }
 ]
