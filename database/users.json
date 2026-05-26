@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "user_1779794960473",
+    "name": "Mouali Amine",
+    "email": "mouali@gmail.com",
+    "password": "-6wl0sc",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-05-26T11:29:20.474Z",
+    "lastLogin": null
+  }
+]
