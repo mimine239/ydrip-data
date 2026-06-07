@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "user_1780836330712",
+    "name": "Mouali amine",
+    "email": "amlikilou@gmail.com",
+    "password": "w6hk3l",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-06-07T12:45:30.712Z",
+    "lastLogin": null
+  }
+]
