@@ -10,16 +10,6 @@
     "lastLogin": null
   },
   {
-    "id": "user_1780832420971",
-    "name": "Mouali",
-    "email": "moualiamine1234@gmail.com",
-    "password": "-f20zxs",
-    "role": "user",
-    "banned": false,
-    "createdAt": "2026-06-07T11:40:20.971Z",
-    "lastLogin": null
-  },
-  {
     "id": "user_1780832645143",
     "name": "Amne",
     "email": "mouali@gmail.com",
