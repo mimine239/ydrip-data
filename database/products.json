@@ -6,7 +6,7 @@
     "stock": 1000,
     "description": "",
     "category": "tshirts",
-    "condition": "Neuf avec étiquette",
+    "condition": "",
     "images": [
       "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmiR6ApetyV_S8PhfgyUzVHI44xj7vaUw2QptdIMMjUwLX_xf7tQy5lX2RTSdkonka_0LvJ8A"
     ],
@@ -24,6 +24,7 @@
     "isHot": false,
     "id": "prod_1779806329448",
     "createdAt": "2026-05-26T14:38:49.448Z",
-    "updatedAt": "2026-05-26T16:03:32.175Z"
+    "updatedAt": "2026-06-07T10:50:24.431Z",
+    "stripe_link": "https://buy.stripe.com/cNifZj2UDfF1847cwW1440f"
   }
 ]
