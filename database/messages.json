@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "msg_1780836188181",
+    "convId": "conv_1780836187182",
+    "senderId": "user_1780832420971",
+    "senderName": "Vous",
+    "content": "Bonjour Amine ! Je suis intéressé(e) par : Nike Mind (35€). Pouvez-vous me donner plus d'informations ?",
+    "isAdmin": false,
+    "timestamp": "2026-06-07T12:43:08.181Z",
+    "read": false
+  }
+]
