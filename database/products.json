@@ -23,5 +23,33 @@
     "id": "prod_1780833741042",
     "createdAt": "2026-06-07T12:02:21.043Z",
     "updatedAt": "2026-06-07T12:09:44.873Z"
+  },
+  {
+    "name": "Nike Mind",
+    "brand": "Nike",
+    "price": 35,
+    "stock": 10,
+    "description": "Sandale Nike mind Ultra Confortable",
+    "category": "sandals",
+    "condition": "Neuf avec boîte",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu22w_sXtPPLkEYWrQ5iD8ginBsFhKe8K4qsAFYKVkDA&s=10"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [],
+    "isNew": false,
+    "isHot": false,
+    "stripe_link": "https://buy.stripe.com/eVq9AV7aT1Obdor9kK1440h",
+    "id": "prod_1780834755869",
+    "createdAt": "2026-06-07T12:19:15.869Z"
   }
 ]
