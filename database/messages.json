@@ -18,5 +18,15 @@
     "isAdmin": false,
     "timestamp": "2026-06-07T11:52:44.727Z",
     "read": false
+  },
+  {
+    "id": "msg_1780833172644",
+    "convId": "conv_1780832831463",
+    "senderId": "admin",
+    "senderName": "Amine Mouali",
+    "content": "Dp",
+    "isAdmin": true,
+    "timestamp": "2026-06-07T11:52:52.644Z",
+    "read": false
   }
 ]
