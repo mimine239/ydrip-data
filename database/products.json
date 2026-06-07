@@ -31,7 +31,7 @@
     "stock": 10,
     "description": "Sandale Nike mind Ultra Confortable",
     "category": "sandals",
-    "condition": "Neuf avec boÃ®te",
+    "condition": "Neuf avec boÃÂ®te",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu22w_sXtPPLkEYWrQ5iD8ginBsFhKe8K4qsAFYKVkDA&s=10"
     ],
@@ -59,7 +59,7 @@
     "stock": 10,
     "description": "Sacoche Gucci avec boite et pochette; TAILLE UNIQUE",
     "category": "running",
-    "condition": "Neuf avec boîte",
+    "condition": "Neuf avec boÃ®te",
     "images": [
       "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQP3bWvpIEFVHpw16UlTozC9ACL1b7yiSE62G51ubi5eZuK8DgIBZwR10joTkdRrjKCsHJkcmRV&usqp=CAc"
     ],
@@ -70,5 +70,33 @@
     "stripe_link": "https://buy.stripe.com/7sY28tcvdcsP98b54u1440i",
     "id": "prod_1780834909477",
     "createdAt": "2026-06-07T12:21:49.477Z"
+  },
+  {
+    "name": "B30",
+    "brand": "Dior",
+    "price": 50,
+    "stock": 10,
+    "description": "Chaussures Dior B30; NEUF AVEC BOITE",
+    "category": "shoes",
+    "condition": "Neuf avec boîte",
+    "images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ83pz6WttiVem6qcJDgVEK4wK4YAzDGC4eRxHpAtCnIOZqo7wfEdqb7d4ZxilGsK8jk0aAhnCthPTTXB46w7UamMNIPnLh-r0mIi64IJLR&usqp=CAc"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [],
+    "isNew": false,
+    "isHot": false,
+    "stripe_link": "https://buy.stripe.com/6oUfZj2UD78v5VZ1Si1440j",
+    "id": "prod_1780835069778",
+    "createdAt": "2026-06-07T12:24:29.778Z"
   }
 ]
