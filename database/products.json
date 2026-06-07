@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Short tee shirt",
+    "brand": "Nike",
+    "price": 40,
+    "stock": 10,
+    "description": "Short tee shirt Nike running",
+    "category": "tshirts",
+    "condition": "Neuf avec boîte",
+    "images": [
+      "https://cdn.media.amplience.net/i/frasersdev/29553003_o?v=20251016110035?fmt=auto&upscale=false&w=1200&h=1200&sm=scaleFit&$h-ttl$"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tags": [],
+    "isNew": true,
+    "isHot": false,
+    "stripe_link": "https://buy.stripe.com/9B6fZj1Qz78vdor7cC1440g",
+    "id": "prod_1780833741042",
+    "createdAt": "2026-06-07T12:02:21.043Z"
+  }
+]
