@@ -1,7 +1,7 @@
 [
   {
     "id": "user_1779893174792",
-    "name": "Mdkdâ",
+    "name": "MdkdÃ¢ÂÂ",
     "email": "jdnf@gmail.com",
     "password": "-hopu5a",
     "role": "user",
@@ -17,6 +17,16 @@
     "role": "user",
     "banned": false,
     "createdAt": "2026-06-06T20:54:28.519Z",
+    "lastLogin": null
+  },
+  {
+    "id": "user_1780832420971",
+    "name": "Mouali",
+    "email": "moualiamine1234@gmail.com",
+    "password": "-f20zxs",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-06-07T11:40:20.971Z",
     "lastLogin": null
   }
 ]
