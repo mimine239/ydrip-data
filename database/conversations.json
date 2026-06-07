@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "conv_1780836187182",
+    "userId": "user_1780832420971",
+    "productId": "prod_1780834755869",
+    "productName": "Nike Mind",
+    "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu22w_sXtPPLkEYWrQ5iD8ginBsFhKe8K4qsAFYKVkDA&s=10",
+    "productPrice": 35,
+    "stripeLink": "https://buy.stripe.com/eVq9AV7aT1Obdor9kK1440h",
+    "createdAt": "2026-06-07T12:43:07.182Z",
+    "lastMessageAt": "2026-06-07T12:43:07.182Z",
+    "lastMessage": "Bonjour, je suis intéressé(e) par Nike Mind",
+    "unreadByAdmin": 1,
+    "unreadByUser": 0
+  }
+]
