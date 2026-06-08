@@ -4,9 +4,19 @@
     "convId": "conv_1780836187182",
     "senderId": "user_1780832420971",
     "senderName": "Vous",
-    "content": "Bonjour Amine ! Je suis intéressé(e) par : Nike Mind (35€). Pouvez-vous me donner plus d'informations ?",
+    "content": "Bonjour Amine ! Je suis intÃ©ressÃ©(e) par : Nike Mind (35â¬). Pouvez-vous me donner plus d'informations ?",
     "isAdmin": false,
     "timestamp": "2026-06-07T12:43:08.181Z",
+    "read": false
+  },
+  {
+    "id": "msg_1780915637904",
+    "convId": "conv_1780836187182",
+    "senderId": "admin",
+    "senderName": "Amine Mouali",
+    "content": "C est une paire de Nike mind très demander",
+    "isAdmin": true,
+    "timestamp": "2026-06-08T10:47:17.904Z",
     "read": false
   }
 ]
