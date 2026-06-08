@@ -12,5 +12,19 @@
     "lastMessage": "Vsndjd",
     "unreadByAdmin": 0,
     "unreadByUser": 1
+  },
+  {
+    "id": "conv_1780956841584",
+    "userId": "user_1780956820708",
+    "productId": "prod_1780835069778",
+    "productName": "B30",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ83pz6WttiVem6qcJDgVEK4wK4YAzDGC4eRxHpAtCnIOZqo7wfEdqb7d4ZxilGsK8jk0aAhnCthPTTXB46w7UamMNIPnLh-r0mIi64IJLR&usqp=CAc",
+    "productPrice": 50,
+    "stripeLink": "https://buy.stripe.com/6oUfZj2UD78v5VZ1Si1440j",
+    "createdAt": "2026-06-08T22:14:01.584Z",
+    "lastMessageAt": "2026-06-08T22:14:01.584Z",
+    "lastMessage": "Bonjour, je suis intéressé(e) par B30",
+    "unreadByAdmin": 1,
+    "unreadByUser": 0
   }
 ]
