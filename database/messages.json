@@ -4,7 +4,7 @@
     "convId": "conv_1780836187182",
     "senderId": "user_1780832420971",
     "senderName": "Vous",
-    "content": "Bonjour Amine ! Je suis intÃ©ressÃ©(e) par : Nike Mind (35â¬). Pouvez-vous me donner plus d'informations ?",
+    "content": "Bonjour Amine ! Je suis intÃÂ©ressÃÂ©(e) par : Nike Mind (35Ã¢ÂÂ¬). Pouvez-vous me donner plus d'informations ?",
     "isAdmin": false,
     "timestamp": "2026-06-07T12:43:08.181Z",
     "read": false
@@ -14,9 +14,19 @@
     "convId": "conv_1780836187182",
     "senderId": "admin",
     "senderName": "Amine Mouali",
-    "content": "C est une paire de Nike mind très demander",
+    "content": "C est une paire de Nike mind trÃ¨s demander",
     "isAdmin": true,
     "timestamp": "2026-06-08T10:47:17.904Z",
+    "read": false
+  },
+  {
+    "id": "msg_1780949140870",
+    "convId": "conv_1780836187182",
+    "senderId": "admin",
+    "senderName": "Amine Mouali",
+    "content": "Vsndjd",
+    "isAdmin": true,
+    "timestamp": "2026-06-08T20:05:40.870Z",
     "read": false
   }
 ]
