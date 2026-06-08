@@ -8,5 +8,15 @@
     "banned": false,
     "createdAt": "2026-06-07T12:45:30.712Z",
     "lastLogin": null
+  },
+  {
+    "id": "user_1780956820708",
+    "name": "Loiloi",
+    "email": "amine@gmail.com",
+    "password": "-459yvu",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-06-08T22:13:40.708Z",
+    "lastLogin": null
   }
 ]
