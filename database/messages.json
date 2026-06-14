@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "msg_1781468009158",
+    "convId": "conv_1781468007949",
+    "senderId": "user_1781168394384",
+    "senderName": "Vous",
+    "content": "Bonjour Amine ! Je suis intéressé(e) par : ds (12€). Pouvez-vous me donner plus d'informations ?",
+    "isAdmin": false,
+    "timestamp": "2026-06-14T20:13:29.158Z",
+    "read": false
+  }
+]
